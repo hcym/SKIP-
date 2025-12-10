@@ -1,6 +1,6 @@
 ![GitHub](https://img.shields.io/github/license/GuoXiCheng/SKIP) ![GitHub all releases](https://img.shields.io/github/downloads/GuoXiCheng/SKIP/total) ![GitHub Repo stars](https://img.shields.io/github/stars/GuoXiCheng/SKIP)
 
-## SKIP 介绍
+## SKIP介绍
 
 SKIP 是一款免费开源的安卓应用，旨在利用安卓无障碍服务帮助用户快速点击 APP 开屏广告的跳过按钮，让你的使用体验更加流畅。
 
@@ -51,3 +51,4 @@ SKIP 是一款免费开源的安卓应用，旨在利用安卓无障碍服务帮
 </table>
 
 > 添加自定义订阅规则订阅请修改[README.md](https://github.com/GuoXiCheng/SKIP/edit/main/README.md)提交 PR。
+
